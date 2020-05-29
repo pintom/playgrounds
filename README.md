@@ -1,2 +1,5 @@
-# playgrounds
-Random Xcode playground files
+# Playgrounds
+
+Xcode playground files containing random algorithm implementations in Swift.
+
+# AI experiments
